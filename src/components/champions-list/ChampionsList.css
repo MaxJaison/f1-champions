@@ -1,0 +1,9 @@
+.table-row {
+    cursor: pointer;
+    background-color: lightgrey;
+}
+
+.table-cell {
+    padding: 10px;
+    border: 2px solid black;
+}
